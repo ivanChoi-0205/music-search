@@ -1,0 +1,12 @@
+{
+    "musicSearchAppBarTitle": "iTunes音樂搜尋",
+    "musicSearchTextFieldHintText": "在iTunes上搜尋",
+    "musicSearchButtonText": "搜尋iTunes音樂",
+    "errMsgMissingSearchQuery": "不能沒有搜尋字數",
+    "musicSearchResultAppBarTitle": "搜尋結果",
+    "preview": "預覽",
+    "paused": "暫停",
+    "playing": "播放中",
+    "searchHistory": "搜尋記錄",
+    "alertNoMusicFound": "沒有找到音樂"
+}

@@ -1,0 +1,12 @@
+{
+    "musicSearchAppBarTitle": "Music Search",
+    "musicSearchTextFieldHintText": "Search on iTunes",
+    "musicSearchButtonText": "Search Button",
+    "errMsgMissingSearchQuery": "Missing search key word",
+    "musicSearchResultAppBarTitle": "Search Result",
+    "preview": "Preview",
+    "paused": "Paused",
+    "playing": "Playing",
+    "searchHistory": "Search History",
+    "alertNoMusicFound": "No Music Found"
+}
